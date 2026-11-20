@@ -1,11 +1,11 @@
 {
-  "version": "3.2.7",
-  "notes": "修复已知问题",
-  "pub_date": "2026-11-20T12:51:52.160Z",
+  "version": "3.2.8",
+  "notes": "修复 PK5 按识别设置匹配替换词并拆单。对子、半顺、杂六新增前中后三段批量入口，保留单段识别及已有自定义词。批量受理回执逐笔列出，合计显示冻结积分和可用余额。",
+  "pub_date": "2026-11-20T15:22:28.176Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.7/windows-x86_64/yinhe-3.2.7-windows-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0Vm1CVWVQMVQyR2xqY0EwVVpMVUp0akFuUWJIQmluQTd1eHIvSjk5bmNJMWRoS1NBSmxReE9kckxTenFMMWMxQjB0U1ZMSjFyT095ZlVBOFNKdEMwR2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTc5Mzc4CWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuN194NjQtc2V0dXAuZXhlCmFicVFOL2twbG9VK2xrbElaRFlYV3dCZWJRbU04citKYzJlMm9QNHkrTWdYQjJ0Mm5nYnpoL3Y3S0ZEWmdObXR5Y1FsMWRnZVlZOW9yZ0pwMVYyU0J3PT0K"
+      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.8/windows-x86_64/yinhe-3.2.8-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0VmdCVjFaZ1VYWmxUWFdxdURKZTNUTmpkZWpISGZmTWx6NlhxS1JQVnFOVEdNaE9vVG9ZZ3F3SS84U0lLSGJ4NTFJbDdsY0Fhc1NkV09lODNQbDVHWndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTg4NDA4CWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuOF94NjQtc2V0dXAuZXhlCmhGR3EvM3FEblBrUnUxQ2JOZXAzbFBmVW40cHgyQWdJUncvSVI1RkZ6dGRDUHMwdVZEU2xtWWtkZlVpSWhaRkJDZ29VZkRqMStocUozWk1jSWNNMkJBPT0K"
     }
   }
 }
