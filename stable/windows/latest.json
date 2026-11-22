@@ -1,11 +1,11 @@
 {
-  "version": "3.2.8",
-  "notes": "修复 PK5 按识别设置匹配替换词并拆单。对子、半顺、杂六新增前中后三段批量入口，保留单段识别及已有自定义词。批量受理回执逐笔列出，合计显示冻结积分和可用余额。",
-  "pub_date": "2026-11-20T15:22:28.176Z",
+  "version": "3.2.9",
+  "notes": "北极星 3.2.9：调整第 5 球详细走势的配色、字体和网格；支持同游戏多群与逐群发送测试，新增会员列汇总与回水、流水分类设置，更新微信头像、启动兼容和退出自动停止。建议升级前备份当前业务数据。",
+  "pub_date": "2026-11-22T07:23:27.926Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.8/windows-x86_64/yinhe-3.2.8-windows-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0VmdCVjFaZ1VYWmxUWFdxdURKZTNUTmpkZWpISGZmTWx6NlhxS1JQVnFOVEdNaE9vVG9ZZ3F3SS84U0lLSGJ4NTFJbDdsY0Fhc1NkV09lODNQbDVHWndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTg4NDA4CWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuOF94NjQtc2V0dXAuZXhlCmhGR3EvM3FEblBrUnUxQ2JOZXAzbFBmVW40cHgyQWdJUncvSVI1RkZ6dGRDUHMwdVZEU2xtWWtkZlVpSWhaRkJDZ29VZkRqMStocUozWk1jSWNNMkJBPT0K"
+      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.9/windows-x86_64/yinhe-3.2.9-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0Vm5tTnRmbHVzOHdyOW1Mcm9aSi85ZGw0TXc5eGRtT1QyM0doSmhsVjRRM0FsN09TZUJVMnQ5ZncrTHBIVExCYzNOUkJVbldieEp1REt6dlJuaHVhUHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzMyNDY2CWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuOV94NjQtc2V0dXAuZXhlCmNWWk9iOTIxTmtPUWJkM0ErbVQ0RVN4bWVaMjhaTy9DbE9nZGIzd2NmK25vZVh2em9HUUdKNmNFN2loaHRUTnpSVm1xTFpxdFZiRFV2UWFBRXdhUkJRPT0K"
     }
   }
 }
