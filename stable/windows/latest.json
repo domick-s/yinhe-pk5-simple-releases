@@ -1,11 +1,11 @@
 {
-  "version": "3.2.9",
-  "notes": "北极星 3.2.9：调整第 5 球详细走势的配色、字体和网格；支持同游戏多群与逐群发送测试，新增会员列汇总与回水、流水分类设置，更新微信头像、启动兼容和退出自动停止。建议升级前备份当前业务数据。",
-  "pub_date": "2026-11-22T07:23:27.926Z",
+  "version": "3.2.10",
+  "notes": "北极星 3.2.10：支持「全」命令多号码及任意输入顺序，每球每码金额口径不变；会员列表默认每页 10 条，支持滚动追加及手动分页；新增机器人 ++ 福利回执模板；中奖流水改按实际派彩累计，中奖回水按累计派彩计算。更新包含本地数据库迁移，建议升级前备份业务数据。",
+  "pub_date": "2026-11-22T13:40:45.621Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.9/windows-x86_64/yinhe-3.2.9-windows-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0Vm5tTnRmbHVzOHdyOW1Mcm9aSi85ZGw0TXc5eGRtT1QyM0doSmhsVjRRM0FsN09TZUJVMnQ5ZncrTHBIVExCYzNOUkJVbldieEp1REt6dlJuaHVhUHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzMyNDY2CWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuOV94NjQtc2V0dXAuZXhlCmNWWk9iOTIxTmtPUWJkM0ErbVQ0RVN4bWVaMjhaTy9DbE9nZGIzd2NmK25vZVh2em9HUUdKNmNFN2loaHRUTnpSVm1xTFpxdFZiRFV2UWFBRXdhUkJRPT0K"
+      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.10/windows-x86_64/yinhe-3.2.10-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0Vm9wTk9RWmFqSWc2NEtCSklGeDhPeDZYdVk2WStrZjdjUHNrTDJkK1lEaTVJWkNVamV6Qi9YdEkzcWhGeUdOV1dqUGQwSisreVhVRVB0MFlCZFRWclFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU1ODEzCWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuMTBfeDY0LXNldHVwLmV4ZQpMNFJBMERjKzNMcmFza3VPUmFjZU5oVXRBeUk5bHJTRFc0ZmNWZ2JMeHlWcUR0SURrNitFSEpLekF1MU1CRWZMajVTT1JsNWdyKzgreTNsaG00YnBEdz09Cg=="
     }
   }
 }
