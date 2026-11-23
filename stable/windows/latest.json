@@ -1,11 +1,11 @@
 {
-  "version": "3.2.12",
-  "notes": "北极星 3.2.12：定时回水在发放前即可查看，会员回水记录只需选择日期范围；优化开奖图和回执图片的可读性；手动开奖弹窗与上下分表等宽；对齐会员、订单和报表页签，精简报表界面。",
-  "pub_date": "2026-11-23T04:36:56.946Z",
+  "version": "3.2.14",
+  "notes": "修复已知问题",
+  "pub_date": "2026-11-23T05:16:06.721Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.12/windows-x86_64/yinhe-3.2.12-windows-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0VmxxdFVuODFmRHYzR0w3TnIxcHRsOWpOdXhkWWNPdnBHYnRXRGlPT1BvVEszazFGazF1cDQza1pMYXJiRERad05NSVNQWTNad0YxbVFTL2dmUko5aWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDA5MzA2CWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuMTJfeDY0LXNldHVwLmV4ZQpwaDFLUVJGTjM3MXU4bmxncGtNZXBaOHNGdXNCQVpCZTdaWFhISWU4MWFEMmZJdFkyemxtcXI3WGFCUFlwMjVvbmFUekk1NWYvQ2lpNVg3ZmpDY3FCUT09Cg=="
+      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.14/windows-x86_64/yinhe-3.2.14-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0VnNTKzlYZ0hZUy9RNzdncjVUbW1YWGlYVXdPVGV6dVRITGJ4bndud0NDbHhCTmNkUnppZXYrRmFnNTZLZEZCZEkyL0ExSEcyeUxxZnlWN084b3VpV2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDExNjQ0CWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuMTRfeDY0LXNldHVwLmV4ZQpFMXpZbzA1T1kvR2R4Mks5MTljNVhJcU5vMGtrUEZYdCt3TEYrUi81aGJSd2pGWXJIdm0vaGlxSU8wNnVvTzBGSktHbDc3UHRQZktkT2VaRWdlV2VDQT09Cg=="
     }
   }
 }
