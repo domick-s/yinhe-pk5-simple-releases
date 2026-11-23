@@ -1,11 +1,11 @@
 {
-  "version": "3.2.16",
+  "version": "3.2.17",
   "notes": "修复已知问题",
-  "pub_date": "2026-11-23T18:37:54.161Z",
+  "pub_date": "2026-11-23T19:13:58.767Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.16/windows-x86_64/yinhe-3.2.16-windows-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0VnF3R1QxK1dkYmNzbWwrV1hBblN0ZmltK1IxU2laVTJmOHZxWkxlenlUTms2cTl6QjB1MC94RU1EZUw5ZktsZjdMWmlJdFRYYkNyeU1CSVlYM0w4WWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDU5Mzk1CWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuMTZfeDY0LXNldHVwLmV4ZQpSM3BiQTNteTZOdXlMV2VFVHlLLzN6M3dVWlBNbUNYdnVlbUxyTE9YbElIelpERE5DOWQrb09GNVFtSHhEZ0w3bm1Hc1ZrbVNyK1pHN2JBMUkzT2dDdz09Cg=="
+      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.17/windows-x86_64/yinhe-3.2.17-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0Vm81am02dUU3YWZ1MnBodlJrWnJKMmN1K250V2dpakN5aEEyMUpKNkhqdWNQM0VkZUZONlBsaHpyOHM0RkdEMCs0NDNMRjh0Ri8xU0d1L1dhdVRzU1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDYxNTM5CWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuMTdfeDY0LXNldHVwLmV4ZQpJeG5oUjlOWEJoTmltWmxDTzREWHVsWjNEbmo1cFVyaVlKbXdDU1lCaFJndmdpWnhpbG1NKytGRTVucWlPYnAyS003RXpXYloxZFNMVmdRWE0zNmdCdz09Cg=="
     }
   }
 }
