@@ -1,11 +1,11 @@
 {
-  "version": "3.2.20",
-  "notes": "修复已知问题",
-  "pub_date": "2026-11-25T01:28:56.431Z",
+  "version": "3.3.0",
+  "notes": "修复负积分导致会员列表无法加载的问题。\n个人赔率支持同类统一设置；个人赔率和个人回水比例可直接保存。\n新建规则默认启用中奖、下注回水的会员个人比例，保留已有设置及历史订单规则。\n新增会员数据管理并改善微信备注读取。",
+  "pub_date": "2026-11-25T14:42:48.052Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.2.20/windows-x86_64/yinhe-3.2.20-windows-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0Vm1wbmRuaTVBTjNJVkFVanA1MlFUTG1qUW5OTzFxSy9sSDlqQTNHRGRrUXNJK3lBVEd0cXdCWkdqNUM1V3A2TmJDdnJ1eVNIMXRnZEV4MXZ1d2FPbmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTcwNDAwCWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjIuMjBfeDY0LXNldHVwLmV4ZQo1eHhOdUI3Q2V5Skp1SEcxN2hxUlBmUXl4b1hVWVJnSTV2V2hTVzdndGJ6S00wZFFDei9ETTdpbFlyaW0xVUJ6M2NEWFo2dWdKYk9qV0trRFhsYmpCdz09Cg=="
+      "url": "https://pk5-simple-updates.dev-forge.one/releases/3.3.0/windows-x86_64/yinhe-3.3.0-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTEl5bkdKMlY0VnFzdlRvazM5eHlBK0pSV3R0dkJYTDBiQjM5SE9TOXNybnA3ODF2V2dhdVRScVdXS3ZwRG9OYzBta2hQM2dFaSs3UERpK3ZxSVdPelRxNER4VFJFU0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4MDU4CWZpbGU65YyX5p6B5pifNeeQg+WKqeaJi18zLjMuMF94NjQtc2V0dXAuZXhlCnVLajB6dGxVbmI5RlhQSGpJQ2V1eWRURC9MQ2lFK1hrSXQ2dW0ra1BodVZwUmkwM1V0dWdCWWx0N3YxRlBrWXVxUFlzMTZoMWNYczRDL2pUcDhDZEN3PT0K"
     }
   }
 }
